@@ -1,0 +1,54 @@
+{
+  "danhmucve": [
+    {
+      "id": "2",
+      "name": "Hạng phổ thông cao cấp"
+    },
+    {
+      "id": "3",
+      "name": "Hạng phổ thông cao "
+    },
+    {
+      "id": "4",
+      "name": "Hạng phổ thông cao cấp"
+    },
+    {
+      "id": "3e52",
+      "name": "avbc"
+    }
+  ],
+  "ve": [
+    {
+      "id": "2",
+      "flightNumber": "VN456",
+      "category": 2,
+      "price": 200
+    },
+    {
+      "id": "f72a",
+      "flightNumber": "a",
+      "category": "b",
+      "price": "c"
+    }
+  ],
+  "bookings": [
+    {
+      "fullName": "ho ten4",
+      "phoneNumber": "1",
+      "email": "aaa@gmail.com",
+      "danhMucVe": "Hạng phổ thông cao cấp",
+      "ve": "VN456",
+      "trangThai": "Thành côngv",
+      "id": "acd8"
+    },
+    {
+      "id": "520b",
+      "fullName": "ho ten 3",
+      "phoneNumber": "0003",
+      "email": "aaaa3@gmail.com",
+      "danhMucVe": "Hạng phổ thông cao cấp",
+      "ve": "a",
+      "trangThai": "Thành công"
+    }
+  ]
+}
